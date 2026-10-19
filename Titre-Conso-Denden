@@ -6,5 +6,77 @@
 </head>
 <body>
  <p>La consommation à DenDen</p>
+<table>
+    <tr>
+        <th>Maisons/ Société</th>
+        <th>Consommation Juillet </th>
+        <th>Consommation Aout</th>
+    </tr>
+    <tr>
+        <td>Maison 1</td>
+        <td>150.0</td>
+        <td>150.0</td>
+    </tr>
+    <tr>
+        <td>Maison 2 </td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 3</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 4</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 5</td>
+        <td>150.0</td>
+        <td>150.0</td>
+    </tr>
+    <tr>
+        <td>Maison 6</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 7</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 8</td>
+        <td>100.0</td>
+        <td>100.0</td>
+    </tr>
+    <tr>
+        <td>Maison 9</td>
+        <td>100.0</td>
+        <td>0.0</td>
+    </tr>
+    <tr>
+        <td>Maison 10</td>
+        <td>150.0</td>
+        <td>150.0</td>
+    </tr>
+    <tr>
+        <td>Office National de l'artisanat</td>
+        <td>950.0</td>
+        <td>950.0</td>
+    </tr>
+    <tr>
+        <td>Total</td>
+        <td>2000.0</td>
+        <td>1900.0</td>
+    </tr>
+    <tr>
+        <td>Compteur Denden</td>
+        <td>2000.0</td>
+        <td>2000.0</td>
+    </tr>
+</table>
 </body>
 </html>
